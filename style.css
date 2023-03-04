@@ -27,6 +27,6 @@ a {
 
 img {
     align-self: flex-end;
-    height: 75px;
-    width: auto;
+    height: auto;
+    width: 250px;
 }
