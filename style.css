@@ -1,0 +1,38 @@
+body {
+    background-color: #F5F299;
+    text-align: center;
+    font-family: Verdana, sans-serif;
+}
+
+
+a {
+    font-size: 17px;
+    text-decoration: none;
+    color: white;
+    text-shadow: 1px 0 black, -1.5px 0 black, 0 1.5px black, 0 -1.5px black,
+        1px 1px black, -0.8px -0.5px black, 0.5px -0.5px black, -0.5px 0.5px black;
+}
+
+.header {
+    font-size: 25px;
+    color: white;
+    text-shadow: 2px 0 black, -2px 0 black, 0 2px black, 0 -2px black,
+        1px 1px black, -1px -1px black, 1px -1px black, -1px 1px black;
+}
+
+.nav img {
+    height: auto;
+    width: 200px;
+}
+
+.top {
+    bottom: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    align-self: flex-end;
+    height: 75px;
+    width: auto;
+}
